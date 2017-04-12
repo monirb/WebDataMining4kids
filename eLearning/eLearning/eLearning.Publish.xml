@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\PUBLISH\eLearning" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/eLearning.pdb" publishTime="05/23/2014 12:09:00" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="04/20/2010 20:54:36" />
+    <file relUrl="Global.asax" publishTime="01/31/2014 11:29:58" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="01/31/2014 11:29:58" />
+    <file relUrl="Site.Master" publishTime="05/01/2014 14:18:25" />
+    <file relUrl="Styles/Site.css" publishTime="05/13/2014 13:57:06" />
+    <file relUrl="About.aspx" publishTime="01/31/2014 11:29:58" />
+    <file relUrl="bin/GoogleSearchAPI.dll" publishTime="03/19/2010 15:46:46" />
+    <file relUrl="Scripts/imagesSearchRegex.txt" publishTime="03/21/2014 13:10:46" />
+    <file relUrl="images/children-Education.jpg" publishTime="03/19/2014 22:17:07" />
+    <file relUrl="bin/GoogleSearchAPI.xml" publishTime="03/19/2010 15:46:46" />
+    <file relUrl="bin/DAL.dll" publishTime="05/04/2014 11:09:04" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="01/31/2014 11:29:58" />
+    <file relUrl="bin/GoogleSearchDotnet.pdb" publishTime="07/18/2010 17:01:42" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="10/17/2013 13:51:02" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="01/31/2014 11:29:58" />
+    <file relUrl="Account/Web.config" publishTime="01/31/2014 11:29:58" />
+    <file relUrl="Account/Register.aspx" publishTime="01/31/2014 11:29:58" />
+    <file relUrl="Account/Login.aspx" publishTime="01/31/2014 11:29:58" />
+    <file relUrl="bin/Newtonsoft.Json.pdb" publishTime="10/17/2013 13:51:02" />
+    <file relUrl="images/farmer.gif" publishTime="03/19/2014 22:17:07" />
+    <file relUrl="ManageUrl.aspx" publishTime="05/13/2014 13:54:33" />
+    <file relUrl="Default.aspx" publishTime="05/28/2014 09:09:18" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="01/31/2014 11:29:58" />
+    <file relUrl="bin/DAL.pdb" publishTime="05/04/2014 11:09:04" />
+    <file relUrl="bin/eLearning.dll" publishTime="05/23/2014 12:09:00" />
+    <file relUrl="bin/backgroundLibrary.pdb" publishTime="05/23/2014 12:08:59" />
+    <file relUrl="images/languages.jpg" publishTime="03/19/2014 22:17:07" />
+    <file relUrl="bin/HtmlAgilityPack.dll" publishTime="08/06/2012 22:30:06" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="01/31/2014 11:29:57" />
+    <file relUrl="bin/GoogleSearchDotnet.dll" publishTime="07/18/2010 17:01:42" />
+    <file relUrl="Scripts/newScript.js" publishTime="04/07/2014 14:43:10" />
+    <file relUrl="Web.config" publishTime="05/28/2014 12:33:15" />
+    <file relUrl="Home.aspx" publishTime="03/20/2014 10:53:03" />
+    <file relUrl="bin/HtmlAgilityPack.pdb" publishTime="08/06/2012 22:30:06" />
+    <file relUrl="bin/GoogleSearchDotnet.xml" publishTime="07/18/2010 16:47:06" />
+    <file relUrl="images/GraduationCap.jpg" publishTime="03/19/2014 22:17:07" />
+    <file relUrl="images/LanguagePartners5.png" publishTime="03/19/2014 22:17:07" />
+    <file relUrl="bin/HtmlAgilityPack.xml" publishTime="08/06/2012 22:30:06" />
+    <file relUrl="images/diff_languages.jpg" publishTime="03/19/2014 22:17:07" />
+    <file relUrl="bin/backgroundLibrary.dll" publishTime="05/23/2014 12:08:59" />
+  </publishProfile>
+</publishData>
