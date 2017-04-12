@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MI-Children>
+	<profile id="">
+		<name/>
+		<age/>
+		<specialneed type="">
+			<details/>
+			<level/>
+		</specialneed>
+	</profile>
+	<query/>
+	<scenario>
+		<environment/>
+		<reason/>
+		<activities/>
+		<inputvalue/>
+
+        .
+        .
+        .
+    	</scenario>
+	<sensors>
+		<sensor type="">
+			<value/>
+			<use/>
+		</sensor>
+	</sensors>
+	<primaryoutput/>
+	<filteredOutput/>
+	<fusedOutput>
+		<preference/>
+		<SensorOutput/>
+		<ExpertOutput/>
+	</fusedOutput>
+	<IndividualizedOutput/>
+	<channelProperties/>
+</MI-Children>

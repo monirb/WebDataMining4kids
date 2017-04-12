@@ -1,0 +1,2 @@
+ALTER TABLE  `user` ADD  `creationdate` DATETIME NOT NULL ,
+ADD  `modification` DATE NOT NULL ;
