@@ -1,0 +1,10 @@
+D:\Uni\Dissertation related\ePROJECT\eLearning\DAL\bin\Debug\DAL.dll
+D:\Uni\Dissertation related\ePROJECT\eLearning\DAL\bin\Debug\DAL.pdb
+D:\Uni\Dissertation related\ePROJECT\eLearning\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Uni\Dissertation related\ePROJECT\eLearning\DAL\obj\Debug\DAL.dll
+D:\Uni\Dissertation related\ePROJECT\eLearning\DAL\obj\Debug\DAL.pdb
+D:\Uni\FINAL_DISSERTATION_MSc\eLearning\DAL\bin\Debug\DAL.dll
+D:\Uni\FINAL_DISSERTATION_MSc\eLearning\DAL\bin\Debug\DAL.pdb
+D:\Uni\FINAL_DISSERTATION_MSc\eLearning\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Uni\FINAL_DISSERTATION_MSc\eLearning\DAL\obj\Debug\DAL.dll
+D:\Uni\FINAL_DISSERTATION_MSc\eLearning\DAL\obj\Debug\DAL.pdb
