@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eLearning", "eLearning\eLearning.csproj", "{7EABC70A-6456-4473-A011-EDDFD293DA9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backgroundLibrary", "backgroundLibrary\backgroundLibrary.csproj", "{D78102CF-3B82-462C-ADBD-21C0C393127B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{B0CAE6F3-1F45-442B-A803-04A2872610AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EABC70A-6456-4473-A011-EDDFD293DA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EABC70A-6456-4473-A011-EDDFD293DA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EABC70A-6456-4473-A011-EDDFD293DA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EABC70A-6456-4473-A011-EDDFD293DA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78102CF-3B82-462C-ADBD-21C0C393127B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78102CF-3B82-462C-ADBD-21C0C393127B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78102CF-3B82-462C-ADBD-21C0C393127B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78102CF-3B82-462C-ADBD-21C0C393127B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0CAE6F3-1F45-442B-A803-04A2872610AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CAE6F3-1F45-442B-A803-04A2872610AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CAE6F3-1F45-442B-A803-04A2872610AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CAE6F3-1F45-442B-A803-04A2872610AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
